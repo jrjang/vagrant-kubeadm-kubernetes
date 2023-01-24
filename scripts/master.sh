@@ -48,7 +48,7 @@ kubectl apply -f https://raw.githubusercontent.com/techiescamp/kubeadm-scripts/m
 
 # Install Kubernetes Dashboard
 
-kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.1/aio/deploy/recommended.yaml
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml
 
 # Create Dashboard User
 
